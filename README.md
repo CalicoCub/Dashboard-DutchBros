@@ -67,3 +67,8 @@ Additional information regarding future expansion plans and financial guidance w
 
 - `Dutch Bros Dashboard.xlsx` — Excel analysis and dashboard
 - `Dutch Bros Analysis Report.pdf` — Written analysis
+
+images/
+├── Dashboard SS 1.png
+├── Dashboard SS 2.png
+├── Charts SS.png

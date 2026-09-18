@@ -40,8 +40,6 @@ Additional year-over-year calculations and performance metrics were calculated i
 
 The project includes an Excel dashboard presenting key financial and operational trends through tables, charts, and visualizations.
 
-![Dashboard](Dashboard SS 1.png)
-
 ## Key Findings
 
 The analysis found that Dutch Bros experienced substantial growth between 2020 and 2025:
@@ -69,8 +67,3 @@ Additional information regarding future expansion plans and financial guidance w
 
 - `Dutch Bros Dashboard.xlsx` — Excel analysis and dashboard
 - `Dutch Bros Analysis Report.pdf` — Written analysis
-
-images/
-├── Dashboard SS 1.png
-├── Dashboard SS 2.png
-├── Charts SS.png
